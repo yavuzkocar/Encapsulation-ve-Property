@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\Encapsulation ve Property\bin\Debug\net5.0\Encapsulation ve Property.exe
+D:\yazılım\pratikler\Encapsulation ve Property\bin\Debug\net5.0\Encapsulation ve Property.deps.json
+D:\yazılım\pratikler\Encapsulation ve Property\bin\Debug\net5.0\Encapsulation ve Property.runtimeconfig.json
+D:\yazılım\pratikler\Encapsulation ve Property\bin\Debug\net5.0\Encapsulation ve Property.runtimeconfig.dev.json
+D:\yazılım\pratikler\Encapsulation ve Property\bin\Debug\net5.0\Encapsulation ve Property.dll
+D:\yazılım\pratikler\Encapsulation ve Property\bin\Debug\net5.0\ref\Encapsulation ve Property.dll
+D:\yazılım\pratikler\Encapsulation ve Property\bin\Debug\net5.0\Encapsulation ve Property.pdb
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.AssemblyInfo.cs
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.dll
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\ref\Encapsulation ve Property.dll
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.pdb
+D:\yazılım\pratikler\Encapsulation ve Property\obj\Debug\net5.0\Encapsulation ve Property.genruntimeconfig.cache
